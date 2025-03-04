@@ -1,8 +1,8 @@
 # Jegyzőkönyv
 
-- A mérést végezte: Benke Balázs
+- A mérést végezte: Tóth Sándor
 - A mérés helye. V3 labor
-- A mérés időpontja: 2025.02.25
+- A mérés időpontja: 2025.03.04
 
 **Mérés célja:**  
 A mért és számított paraméterek összehasonlítása felül és aluláteresztő szűrő esetében, műveleti erősítő segítségével.
